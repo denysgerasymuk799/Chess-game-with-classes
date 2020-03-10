@@ -1,0 +1,233 @@
+
+
+Arsen
+--------------------
+A big market with food in the center near Freedom square.
+The Lvivski kruasany is north
+Dave is here!
+Your friend from the university
+The [chocolate] is here - Treatment for your friends
+> south
+I don't know how to south
+Or enter other direction from place information
+
+
+Arsen
+--------------------
+A big market with food in the center near Freedom square.
+The Lvivski kruasany is north
+Dave is here!
+Your friend from the university
+The [chocolate] is here - Treatment for your friends
+> take
+You put the chocolate in your backpack
+
+
+Arsen
+--------------------
+A big market with food in the center near Freedom square.
+The Lvivski kruasany is north
+Dave is here!
+Your friend from the university
+> talk
+[Dave says]: Hello, guy! How are you ? Could you give me a chocolate ?
+
+
+Arsen
+--------------------
+A big market with food in the center near Freedom square.
+The Lvivski kruasany is north
+Dave is here!
+Your friend from the university
+> give
+What will you give ?
+chocolate
+Oh dear, thank you!
+
+
+Arsen
+--------------------
+A big market with food in the center near Freedom square.
+The Lvivski kruasany is north
+Dave is here!
+Your friend from the university
+> north
+
+
+Lvivski kruasany
+--------------------
+A nice cafe near Freedom square.
+The Arsen is south
+The Opera theater is west
+Kavaler is here!
+A man who entertains a woman in company, accompanies her during a walk, etc.
+The [karate] is here - Marshial art to protect yourself
+> take
+You put the karate in your backpack
+
+
+Lvivski kruasany
+--------------------
+A nice cafe near Freedom square.
+The Arsen is south
+The Opera theater is west
+Kavaler is here!
+A man who entertains a woman in company, accompanies her during a walk, etc.
+> talk
+[Kavaler says]: I am a polite man to girls.
+
+
+Lvivski kruasany
+--------------------
+A nice cafe near Freedom square.
+The Arsen is south
+The Opera theater is west
+Kavaler is here!
+A man who entertains a woman in company, accompanies her during a walk, etc.
+> north
+I don't know how to north
+Or enter other direction from place information
+
+
+Lvivski kruasany
+--------------------
+A nice cafe near Freedom square.
+The Arsen is south
+The Opera theater is west
+Kavaler is here!
+A man who entertains a woman in company, accompanies her during a walk, etc.
+> west
+
+
+Opera theater
+--------------------
+An exciting and cultural place near Freedom square.
+The Lvivski kruasany is east
+The pizza Celentano is west
+The [a glass of beer] is here - Tool from batiar
+> take
+You put the a glass of beer in your backpack
+
+
+Opera theater
+--------------------
+An exciting and cultural place near Freedom square.
+The Lvivski kruasany is east
+The pizza Celentano is west
+> west
+
+
+pizza Celentano
+--------------------
+A nice cafe near Freedom square.
+The Opera theater is south
+The Fountain near Opera theater is north
+Batiar is here!
+Gravis, a drunkard, a popular late-19th-early-20th-century, brutal woman
+> talk
+[Batiar says]: The last glass was enough.
+
+
+pizza Celentano
+--------------------
+A nice cafe near Freedom square.
+The Opera theater is south
+The Fountain near Opera theater is north
+Batiar is here!
+Gravis, a drunkard, a popular late-19th-early-20th-century, brutal woman
+> give
+What will you give ?
+A glass of beer
+Oh dear, thank you!
+
+
+pizza Celentano
+--------------------
+A nice cafe near Freedom square.
+The Opera theater is south
+The Fountain near Opera theater is north
+Batiar is here!
+Gravis, a drunkard, a popular late-19th-early-20th-century, brutal woman
+> north
+
+
+Fountain near Opera theater
+--------------------
+A fountain near Opera theater.
+The pizza Celentano is south
+The Hotel "Zhorzh" is north
+Laidak is here!
+Poor homeless man.
+The [money] is here - Resource for new busyness
+> take
+You put the money in your backpack
+
+
+Fountain near Opera theater
+--------------------
+A fountain near Opera theater.
+The pizza Celentano is south
+The Hotel "Zhorzh" is north
+Laidak is here!
+Poor homeless man.
+> talk
+[Laidak says]: Give me some money and I will start new busyness.
+
+
+Fountain near Opera theater
+--------------------
+A fountain near Opera theater.
+The pizza Celentano is south
+The Hotel "Zhorzh" is north
+Laidak is here!
+Poor homeless man.
+> give
+What will you give ?
+money
+Oh dear, thank you!
+
+
+Fountain near Opera theater
+--------------------
+A fountain near Opera theater.
+The pizza Celentano is south
+The Hotel "Zhorzh" is north
+Laidak is here!
+Poor homeless man.
+> north
+
+
+Hotel "Zhorzh"
+--------------------
+An expensive hotel near Freedom square.
+The Fountain near Opera theater is south
+The Finish is north
+Zbuy is here!
+Robber, robber.
+> talk
+[Zbuy says]: Give me your money or I will urge you to take Math exams!
+
+
+Hotel "Zhorzh"
+--------------------
+An expensive hotel near Freedom square.
+The Fountain near Opera theater is south
+The Finish is north
+Zbuy is here!
+Robber, robber.
+> fight
+What will you fight with?
+karate
+You fend Zbuy off with the karate
+Hooray, you won the fight!
+
+
+Hotel "Zhorzh"
+--------------------
+An expensive hotel near Freedom square.
+The Fountain near Opera theater is south
+The Finish is north
+> north
+
+
+Congratulations, you have finished the long road!
